@@ -56,9 +56,9 @@ TrustVault_FullStack/
 3. Open Terminal and run:
 
 ```bash
-python -m venv venv
-venv\\Scripts\\activate
-pip install -r requirements.txt
+dir
+.\venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
 python app.py
 ```
 
