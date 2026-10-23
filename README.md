@@ -56,6 +56,7 @@ TrustVault_FullStack/
 3. Open Terminal and run:
 
 ```bash
+Use `cd .\TrustVault_FullStack1` when your terminal is in the outer folder and you need to enter the inner project folder.
 dir
 .\venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
